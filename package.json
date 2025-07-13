@@ -2,7 +2,7 @@
   "name": "packageName",
   "version": "0.0.0",
   "description": "",
-  "repository": "unjs/packageName",
+  "repository": "repo/packageName",
   "license": "MIT",
   "sideEffects": false,
   "type": "module",
